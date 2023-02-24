@@ -1,4 +1,24 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/font.css);
 
+@import url(../blocks/page/page.css);
 
+/* <header> */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__container/header__container.css);
+@import url(../blocks/header/__info-content/header__info-content.css);
+@import url(../blocks/header/__item-logo/header__item-logo.css);
+@import url(../blocks/header/__item-title/header__item-title.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__item-reference-data/header__item-reference-data.css);
+@import url(../blocks/header/__work-schedule/header__work-schedule.css);
+@import url(../blocks/header/__address/header__address.css);
+@import url(../blocks/header/__item-contact/header__item-contact.css);
+@import url(../blocks/header/__telephone-number/header__telephone-number.css);
+@import url(../blocks/header/__email/header__email.css);
+@import url(../blocks/header/__item-button/header__item-button.css);
+
+/* </header> */
+
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/__theme-header/button__theme-header.css);

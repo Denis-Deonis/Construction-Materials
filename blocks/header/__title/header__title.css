@@ -1,0 +1,12 @@
+.header__title {
+    font-family: Oswald;
+    font-style: normal;
+    font-size: .75rem;
+    font-weight: 500;
+    line-height: 1.1113rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
