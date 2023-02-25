@@ -1,0 +1,14 @@
+.menu__dropdown {
+    position: relative;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.menu__dropdown::after {
+    content: url(../../../images/header/Frame.svg);
+    width: .5rem;
+    height: .5rem;
+    padding: 0 0 0 .4375rem;
+    margin: 0;
+}

@@ -17,8 +17,16 @@
 @import url(../blocks/header/__telephone-number/header__telephone-number.css);
 @import url(../blocks/header/__email/header__email.css);
 @import url(../blocks/header/__item-button/header__item-button.css);
-
 /* </header> */
+
+/* <menu> */ 
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__container/menu__container.css);
+@import url(../blocks/menu/__link/menu__link.css);
+@import url(../blocks/menu/__link/_active/menu__link_active.css);
+@import url(../blocks/menu/__dropdown/menu__dropdown.css);
+@import url(../blocks/menu/__dropdown-content/menu__dropdown-content.css);
+/* </menu> */
 
 @import url(../blocks/button/button.css);
 @import url(../blocks/button/__theme-header/button__theme-header.css);
