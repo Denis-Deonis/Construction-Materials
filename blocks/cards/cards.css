@@ -1,0 +1,19 @@
+.cards {
+    display: flex;
+    justify-self: start;
+    gap: 2.5rem;
+    padding: 5.5625rem 0 0 0;
+    position: relative;
+}
+
+.cards::before {
+    content: "";
+    width: 41.1875rem;
+    height: 7.9375rem;
+
+    background-color:  #302E2C;
+    opacity: .9;
+    position: absolute;
+    left: -3.125rem;
+    bottom: -1.625rem;
+}

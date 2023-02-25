@@ -1,0 +1,35 @@
+.logistics {
+    position: relative;
+    width: 100%;
+    height: 41.5rem;
+
+    box-shadow: inset 10px 10px 10px 0 #232320;   
+    box-sizing: border-box;
+}
+
+.logistics::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .6)), url(../../images/logistics/stones.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    filter: blur(7px);
+    z-index: 0;
+    -webkit-filter: blur(7px);
+}
+
+.logistics::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    width: 88%;
+    height: 100%;
+    background-image:  url(../../images/logistics/hill.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 1;
+}

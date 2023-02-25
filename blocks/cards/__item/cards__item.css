@@ -1,0 +1,6 @@
+.cards__item {
+    max-width: 10.625rem;
+    height: 7.625rem;
+    list-style-type: none;
+    z-index: 3;
+}

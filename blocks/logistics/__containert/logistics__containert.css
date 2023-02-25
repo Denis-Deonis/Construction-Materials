@@ -1,0 +1,10 @@
+.logistics__containert {
+    display: inline-block;
+    position: relative;
+    width: 37rem;
+    height: 31.25rem;
+    margin: 6.25rem 0 0 19.5rem;
+    z-index: 2;
+
+    color: #FEFEFD;
+}
