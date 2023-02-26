@@ -1,0 +1,15 @@
+.button__theme_catalog {
+    width: 14.875rem;
+    height: 2.375rem;
+    background-color: transparent;
+
+    color: #FEFEFD;
+
+    border: 1px solid #E59456;
+}
+
+.button__theme_catalog:hover {
+    background-color: rgba(229, 148, 86, 0.7);
+    cursor: pointer;
+    
+}

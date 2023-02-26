@@ -1,0 +1,10 @@
+.catalog {
+    max-width: 80.9375rem;
+    min-height: 52.0625rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3.75rem ;
+    margin: 0;
+    padding: 0;
+    
+}

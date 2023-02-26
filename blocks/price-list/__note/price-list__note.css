@@ -1,0 +1,12 @@
+.price-list__note {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.1875rem;
+
+    color: #BFBFBF;
+
+    padding: .4375rem 0 3.6875rem 0;
+    margin: 0;
+}

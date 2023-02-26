@@ -1,0 +1,12 @@
+.catlog__price {
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 1.125rem;
+    line-height: 1.375rem;
+
+    color: #FEFEFD;
+
+    opacity: 0.9;
+    margin: 0;
+    padding: 0;
+}

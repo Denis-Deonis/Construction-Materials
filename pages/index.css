@@ -46,5 +46,32 @@
 @import url(../blocks/cards/__description/cards__description.css);
 /* </cards> */
 
+@import url(../blocks/title/title.css);
+@import url(../blocks/title/_position/title_position.css);
+
+/* <price-list> */
+    @import url(../blocks/price-list/price-list.css);
+    @import url(../blocks/price-list/__conteiner/price-list__conteiner.css);
+    @import url(../blocks/price-list/__note/price-list__note.css);
+    
+/* </price-list> */
+
+/* <catalog> */
+@import url(../blocks/catalog/catalog.css);
+@import url(../blocks/catalog/__item/catalog__item.css);
+@import url(../blocks/catalog/__img/catalog__img.css);
+@import url(../blocks/catalog/__group/catalog__group.css);
+@import url(../blocks/catalog/__text/catalog__text.css);
+@import url(../blocks/catalog/__prices/catalog__prices.css);
+@import url(../blocks/catalog/__price/catlog__price.css);
+@import url(../blocks/catalog/__price/_type/catlog__price_type_discount.css);
+@import url(../blocks/catalog/__price/_type/catlog__price_type_ruble.css);
+@import url(../blocks/catalog/__price/_type/catlog__price_type_rigt.css);
+@import url(../blocks/catalog/__pay-info/catalog__pay-info.css);
+@import url(../blocks/catalog/__pay-info/_position/catalog__pay-info_position_rigt.css);
+@import url(../blocks/catalog/__button/catalog__button.css);
+/* </catalog> */
+
 @import url(../blocks/button/button.css);
-@import url(../blocks/button/__theme-header/button__theme-header.css);
+@import url(../blocks/button/__theme/button__theme_header.css);
+@import url(../blocks/button/__theme/button__theme_catalog.css);

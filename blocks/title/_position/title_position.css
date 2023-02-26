@@ -1,0 +1,7 @@
+.title_position {
+    transform: translateX(-1.25rem);
+    -webkit-transform: translateX(-1.25rem);
+    -moz-transform: translateX(-1.25rem);
+    -ms-transform: translateX(-1.25rem);
+    -o-transform: translateX(-1.25rem);
+}

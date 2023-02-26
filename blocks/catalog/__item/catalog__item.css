@@ -1,0 +1,9 @@
+.catalog__item {
+    width: 17.375rem;
+    height: 24.125rem;
+    list-style-type: none;
+    background-color: rgba(48, 46, 44, .7);
+    font-family: Lato;
+    
+    object-fit: contain;
+}
