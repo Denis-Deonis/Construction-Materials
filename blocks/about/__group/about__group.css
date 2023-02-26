@@ -1,0 +1,5 @@
+.about__group {
+    min-width: 84.5625rem;
+    display: flex;
+    flex-wrap: wrap;
+}
